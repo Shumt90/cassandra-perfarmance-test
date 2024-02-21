@@ -1,0 +1,3 @@
+- Range
+- disable compression
+- read all postgres data, now it's wring
